@@ -13,7 +13,7 @@
 .logo {
     display: flex;
     justify-content: space-between;
-    padding: 16px;
+    padding: 16px 70px;
 }
 
 a {
@@ -26,6 +26,8 @@ a {
     font-size: larger;
     display: flex;
     gap: 10px;
+    align-items: center;
+    
 }
 
 .header {
@@ -59,7 +61,7 @@ a {
     display: flex;
     flex-direction: column;
     gap: 25px; 
-    padding: 40px;
+    padding: 30px;
 }
 .image {
     padding: 30px;
